@@ -1,0 +1,3 @@
+RemoveHandler .cgi .pl .py .php4 .pcgi4 .php .php3 .phtml .pcgi .php5 .pcgi5 .swf .tpl .pot .flv
+RemoveType .cgi .pl .py .php4 .pcgi4 .php .php3 .phtml .pcgi .php5 .pcgi5 .swf .tpl .pot .flv
+AddType application/x-httpd-php-source .php
